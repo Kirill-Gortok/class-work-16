@@ -1,0 +1,50 @@
+.q{
+    padding: 20px;
+    margin: 20px;
+    display: flex;
+    justify-content: center;
+    font-size: 35px;
+}
+.par{
+    width: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+img{
+    width: 250px;
+    margin-top: 18px;
+}
+.z{
+    font-size: 25px;
+}
+.header{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    color: grey;
+
+}
+.m{
+    font-size: 25px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+.n{
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    margin-top: 20px;
+    color: grey;
+    
+}
+.main{
+    display: flex;
+    justify-content: space-between;
+}
+.card{
+    margin-top: 100px;
+}
